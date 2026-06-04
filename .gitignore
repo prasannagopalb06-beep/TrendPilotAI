@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Node
+node_modules/
+
+# Build
+dist/
+
+# VS Code
+.vscode/
+
+# Uploads
+uploads/
+
+# AI Models
+*.pt
